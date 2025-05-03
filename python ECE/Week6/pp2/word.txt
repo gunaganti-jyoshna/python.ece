@@ -1,0 +1,7 @@
+Read the file.
+
+Split the content into words.
+
+Check if each word starts with a vowel (a, e, i, o, u) and if its length is n.
+
+Collect and return the matching words.

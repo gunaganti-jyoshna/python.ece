@@ -1,0 +1,3 @@
+I a
+
+Here's a simple and clean Python function that reads data from a file and displays it on the screen:
